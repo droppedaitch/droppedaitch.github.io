@@ -1,0 +1,21 @@
+h1, h2{
+	text-align:center;
+}
+body{
+	font-family: georgia;
+	text-align: center;
+	background: #002233;
+	color: white;
+}
+li{
+	font-style: italic;
+	background: #a5c392;
+	margin: 20px;
+	padding: 0px;
+}
+ul{
+	font-weight: bold;
+}
+.caption {
+	font-style: italic;
+}
